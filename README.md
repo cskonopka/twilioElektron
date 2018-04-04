@@ -1,5 +1,5 @@
 # twilioElektron
-This is an example of how to control an Elektron Octatrack, via midi (easymidi), with Twilio SMS and Node.js + Express. The purpose of this project was to make an initial connection with the Elektron Octatrak by using text message to mute and unmute a single track on the sampler using MIDI. This idea could be grown into a larger system that could utilize complex MIDI routes to create algorithmic compositions using data, a crowd of text messages or even gorillas in the wild. Think big.
+This is an example of how to control an Elektron Octatrack, via midi (easymidi), with Twilio SMS and Node.js + Express. The purpose of this project was to make an initial connection with the Elektron Octatrack by using text message to mute and unmute a single track on the sampler using MIDI. This idea could be grown into a larger system that could utilize complex MIDI routes to create algorithmic compositions using data, a crowd of text messages or even gorillas in the wild. Think big.
 
 # What was used
 [Node.js](https://nodejs.org/en/) - [Express](https://expressjs.com/en/starter/installing.html) - [Twilio](https://www.twilio.com/sms) - [easymidi](https://github.com/dinchak/node-easymidi)
